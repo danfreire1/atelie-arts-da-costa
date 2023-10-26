@@ -168,6 +168,9 @@ renderizarCatalogo();
 
 let menu = document.querySelector("#menu-icon");
 let navbar = document.querySelector(".navbar");
+let icons = document.querySelector(".icons");
+
+console.log(icons)
 
 menu.onclick = () => {
     menu.classList.toggle("bx-x");
