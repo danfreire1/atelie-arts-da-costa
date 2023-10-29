@@ -293,8 +293,12 @@ section{
 	}
 
 	/* Product Card */
+	.shop {
+		max-width: 100%;
+	}
+
 	.box{
-		padding: 0px 20px 10px 20px;
+		padding: 0px 12px 10px 12px;
 		margin-right: 1000px;
 		background: transparent;
 		box-shadow: 5px 30px 56.1276px rgb(55 55 55 / 12%);
