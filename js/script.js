@@ -66,7 +66,7 @@ const catalogo = [
     {
         id: "10",
         nome: "Pasta semanário",
-        preco: "R$ 90,00",
+        preco: "Pasta Catálogo: R$ 90,00<br/>Caderno: R$ 80,00",
         imagem: ["modelo5-gimp.jpg", "modelo5-1-gimp.jpg", "modelo5-2-gimp.jpg", "modelo5-3-gimp.jpg"],
         bordado: false,
     },
