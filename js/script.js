@@ -3,115 +3,108 @@ const catalogo = [
     {
         id: "1",
         nome: "Maleta de Viagem",
-        preco: 200,
+        preco: "R$ 200,00",
         imagem: ["product-1-gimp.jpg", "product-1-1-gimp.jpg"],
         bordado: false,
     },
     {
         id: "2",
         nome: "Estojo com Nome Bordado",
-        preco: 30,
+        preco: "R$ 30,00",
         imagem: ["product-2.jpg", "product-2-1.jpg", "product-2-2.jpg", "product-4.jpg"],
         bordado: false,
     },
     {
         id: "3",
         nome: "Rocambole 3 compartimentos",
-        preco: 80,
+        preco: "R$ 80,00",
         imagem: ["product-5.jpg", "product-5-1.jpg", "product-5-2-gimp.jpg", "rocambole-3reparticoes1-gimp.jpg", "rocambole-3reparticoes2-gimp.jpg", "rocambole-3reparticoes2-1-gimp.jpg", "rocambole-3reparticoes3.jpg"],
         bordado: false,
     },
     {
         id: "4",
         nome: "Rocambole 4 compartimentos",
-        preco: 90,
+        preco: "R$ 90,00",
         imagem: ["product-3.jpg", "product-3-1.jpg", "product-6.jpg", "product-6-1-gimp.jpg", "rocambole-4reparticoes1.jpg", "rocambole-4reparticoes1-1-gimp.jpg", "rocambole-4reparticoes2.jpg", "rocambole-4reparticoes3-gimp.jpg", "rocambole-4reparticoes4-gimp.jpg"],
         bordado: false,
     },
     {
         id: "5",
         nome: "Bolsa Nayla",
-        preco: 250,
+        preco: "R$ 250,00",
         imagem: ["bolsa-professor1-gimp.jpg", "bolsa-professor2-gimp.jpg", "bolsa-professor3-gimp.jpg", "bolsa-professor4-gimp.jpg", "bolsa-professor5-gimp.jpg", "bolsa-professor6-gimp.jpg", "bolsa-professor7-gimp.jpg", "bolsa-professor7-1-gimp.jpg", "bolsa-professor8-gimp.jpg", "bolsa-professor9-gimp.jpg"],
         bordado: false,
     },
     {
         id: "6",
-        nome: "Bordado bailarina",
-        preco: "",
-        imagem: ["bailarina1-gimp.jpg", "bailarina2-gimp.jpg"],
-        bordado: true,
+        nome: "Kit maternidade modelo 1 - Monte seu kit",
+        preco: "Preço a confirmar no whatsapp",
+        imagem: ["modelo1-gimp.jpg", "modelo1-1-gimp.jpg", "modelo1-2-gimp.jpg"],
+        bordado: false,
     },
     {
         id: "7",
-        nome: "Bordado Boneca",
-        preco: "",
-        imagem: ["boneca1-gimp.jpg", "boneca2-gimp.jpg"],
-        bordado: true,
+        nome: "Kit maternidade modelo 2 - Monte seu kit",
+        preco: "Preço a confirmar no whatsapp",
+        imagem: ["modelo2-gimp.jpg", "modelo2-1-gimp.jpg"],
+        bordado: false,
     },
     {
         id: "8",
-        nome: "Bordado Borboleta",
-        preco: "",
-        imagem: ["borboleta1-gimp.jpg", "borboleta2-gimp.jpg"],
-        bordado: true,
+        nome: "Necessaire multiuso",
+        preco: "R$ 30,00",
+        imagem: ["modelo3-gimp.jpg", "modelo3-1-gimp.jpg"],
+        bordado: false,
     },
     {
         id: "9",
-        nome: "Bordado Corujinha",
-        preco: "",
-        imagem: ["corujinha1-gimp.jpg", "corujinha2-gimp.jpg"],
-        bordado: true,
+        nome: "Mochila quadrada",
+        preco: "M: R$ 250,00 | G: R$ 300,00",
+        imagem: ["modelo4-gimp.jpg", "modelo4-1-gimp.jpg", "modelo4-2-gimp.jpg", "modelo4-3-gimp.jpg", "modelo4-5-gimp.jpg", "modelo4-7-gimp.jpg", "modelo4-8-gimp.jpg"],
+        bordado: false,
     },
     {
         id: "10",
-        nome: "Bordado Girafa",
-        preco: "",
-        imagem: ["girafa1-gimp.jpg", "girafa2-gimp.jpg"],
-        bordado: true,
+        nome: "Pasta semanário",
+        preco: "R$ 90,00",
+        imagem: ["modelo5-gimp.jpg", "modelo5-1-gimp.jpg", "modelo5-2-gimp.jpg", "modelo5-3-gimp.jpg"],
+        bordado: false,
     },
     {
         id: "11",
-        nome: "Bordado Heroi",
-        preco: "",
-        imagem: ["heroi1-gimp.jpg", "heroi2-gimp.jpg"],
-        bordado: true,
+        nome: "Pasta diário de classe",
+        preco: "R$ 90,00",
+        imagem: ["modelo6-gimp.jpg"],
+        bordado: false,
     },
     {
         id: "12",
-        nome: "Bordado Infantil",
-        preco: "",
-        imagem: ["infantil1-gimp.jpg", "infantil2-gimp.jpg"],
-        bordado: true,
+        nome: "Pasta A-Z",
+        preco: "R$ 110,00",
+        imagem: ["modelo9-gimp.jpg"],
+        bordado: false,
     },
     {
         id: "13",
-        nome: "Bordado Mickey e Minnie",
-        preco: "",
-        imagem: ["mickey-minnie1-gimp.jpg", "mickey-minnie2-gimp.jpg"],
-        bordado: true,
+        nome: "Mochila retangular com bolso duplo",
+        preco: "R$ 350,00",
+        imagem: ["modelo13-4-gimp.jpg", "modelo13-5-gimp.jpg"],
+        bordado: false,
     },
     {
         id: "14",
-        nome: "Bordado Princesa",
-        preco: "",
-        imagem: ["princesa1-gimp.jpg", "princesa2-gimp.jpg"],
-        bordado: true,
+        nome: "Mochila Infantil",
+        preco: "R$ 200,00",
+        imagem: ["modelo14-gimp.jpg", "modelo14-1-gimp.jpg", "modelo14-3-gimp.jpg", "modelo14-4-gimp.jpg", "modelo14-5-gimp.jpg", "modelo14-6-gimp.jpg", "modelo14-7-gimp.jpg", "modelo14-8-gimp.jpg"],
+        bordado: false,
     },
-    {
-        id: "15",
-        nome: "Bordado Unicornio",
-        preco: "",
-        imagem: ["unicornio1-gimp.jpg", "unicornio2-gimp.jpg"],
-        bordado: true,
-    },
-    {
+    /*{
         id: "16",
         nome: "Bordado Ursinho",
         preco: "",
         imagem: ["ursinho1-gimp.jpg", "ursinho2-gimp.jpg"],
         bordado: true,
-    },
+    },*/
 ];
 
 // Cartao Produto
@@ -120,8 +113,8 @@ function renderizarCatalogo() {
 
     for(const produtoCatalogo of catalogo) {
         let produtoMed = ""
-        i++;
         if(produtoCatalogo.imagem.length > 1) {
+            i++;
             // Tem mais de uma imagem, montar o html como slideshow
             // Precisa fazer um loop para pegar a imagem e colocar no html de acordo com a quantidade
             const produtoInit = `<div class="box">
@@ -139,7 +132,7 @@ function renderizarCatalogo() {
 
             const cartaoProduto = produtoInit + produtoMed + `</div>
                 <h4>${produtoCatalogo.nome}</h4>
-                <h5>R$ ${produtoCatalogo.preco}</h5>
+                <h5>${produtoCatalogo.preco}</h5>
                 <div class="cart">
                     <a href="#"><i class='bx bx-cart' ></i></a>
                 </div>
@@ -151,7 +144,7 @@ function renderizarCatalogo() {
             const cartaoProduto = `<div class="box">
                 <img src="img/${produtoCatalogo.imagem[0]}">
                 <h4>${produtoCatalogo.nome}</h4>
-                <h5>R$ ${produtoCatalogo.preco}</h5>
+                <h5>${produtoCatalogo.preco}</h5>
                 <div class="cart">
                     <a href="#"><i class='bx bx-cart' ></i></a>
                 </div>
@@ -200,7 +193,6 @@ var myIndex12 = 0;
 var myIndex13 = 0;
 var myIndex14 = 0;
 var myIndex15 = 0;
-var myIndex16 = 0;
 
 
 function carousel() {
@@ -358,71 +350,6 @@ function carousel11() {
 }
 
 carousel11();
-
-function carousel12() {
-    var x = document.getElementsByClassName(`mySlides-13`);
-    for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";  
-    }
-    myIndex12++;
-    if (myIndex12 > x.length) {myIndex12 = 1}    
-    x[myIndex12-1].style.display = "block";  
-    setTimeout(carousel12, 2000); // Change image every 2 seconds
-}
-
-carousel12();
-
-function carousel13() {
-    var x = document.getElementsByClassName(`mySlides-14`);
-    for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";  
-    }
-    myIndex13++;
-    if (myIndex13 > x.length) {myIndex13 = 1}    
-    x[myIndex13-1].style.display = "block";  
-    setTimeout(carousel13, 2000); // Change image every 2 seconds
-}
-
-carousel13();
-
-function carousel14() {
-    var x = document.getElementsByClassName(`mySlides-15`);
-    for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";  
-    }
-    myIndex14++;
-    if (myIndex14 > x.length) {myIndex14 = 1}    
-    x[myIndex14-1].style.display = "block";  
-    setTimeout(carousel14, 2000); // Change image every 2 seconds
-}
-
-carousel14();
-
-function carousel15() {
-    var x = document.getElementsByClassName(`mySlides-15`);
-    for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";  
-    }
-    myIndex15++;
-    if (myIndex15 > x.length) {myIndex15 = 1}    
-    x[myIndex15-1].style.display = "block";  
-    setTimeout(carousel15, 2000); // Change image every 2 seconds
-}
-
-carousel15();
-
-function carousel16() {
-    var x = document.getElementsByClassName(`mySlides-16`);
-    for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";  
-    }
-    myIndex16++;
-    if (myIndex16 > x.length) {myIndex16 = 1}    
-    x[myIndex16-1].style.display = "block";  
-    setTimeout(carousel16, 2000); // Change image every 2 seconds
-}
-
-carousel16();
 
 /*=============== SHOW MODAL ===============*/
 const showModal = (openButton, modalContent) =>{
